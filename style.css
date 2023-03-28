@@ -1,0 +1,44 @@
+body{
+  font-family: 'Julee', cursive;
+  color: #ff0000;
+}
+
+table, th, td {
+  border: 1px solid;
+}
+
+div {
+    background-color: aqua;
+}
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #05ff01;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(0, 132, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #ff008c;
+}
+
+#julie {
+  color:rgb(231, 0, 0);
+  
+}
